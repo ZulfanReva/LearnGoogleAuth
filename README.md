@@ -1,6 +1,9 @@
 # LearnGoogleAuth with Filament by Zulfan Reva
 
 <p align="center">
+    <img src="public/image/Preview.png" width="800" alt="LearnGoogleAuth Preview">
+</p>
+<p align="center">
     <img src="https://img.shields.io/badge/Laravel-11+-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Version">
     <img src="https://img.shields.io/badge/Filament-4.x-F59E0B?style=for-the-badge&logo=laravel&logoColor=white" alt="Filament Version">
     <img src="https://img.shields.io/badge/PHP-8.2+-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Version">
